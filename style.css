@@ -8,3 +8,6 @@ margin: 0px;
     font-size: 15px;
     color: black;
 }
+#status, #number_of_objects{
+    font-size: 18px;
+}
